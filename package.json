@@ -9,6 +9,8 @@
   "author": "Erik van Zummeren",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^1.19.0"
+    "csvtojson": "^2.0.10",
+    "puppeteer": "^1.19.0",
+    "request": "^2.88.0"
   }
 }
